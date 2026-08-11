@@ -2,9 +2,19 @@
     width: 1200px;
     height: 64px;
     background-color: #2FA97C;
+    margin-left: 350px;
 }
 
+.navbar-tags {
+    width: 870px;
+    height: 64px;
+    text-decoration: none;
 
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* Galeria de imagens */
 .container-imagens {
     width: 150px;
     height: 350px;
